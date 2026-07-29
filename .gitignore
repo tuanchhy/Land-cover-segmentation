@@ -1,0 +1,10 @@
+# Dữ liệu & checkpoints nặng
+DatasetVN/
+checkpoints/
+*.keras
+*.pkl
+
+# Thư mục hệ thống & Python cache
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
